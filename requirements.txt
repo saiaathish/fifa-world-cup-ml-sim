@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+rapidfuzz
+openpyxl
+pdfplumber
+pypdf

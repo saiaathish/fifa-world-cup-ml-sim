@@ -1,0 +1,32 @@
+stage,match_no,team_a,team_b,winner,slot_a,slot_b
+Round of 32,73,mexico,switzerland,mexico,2A,2B
+Round of 32,74,germany,morocco,morocco,1E,3_FOR_1E
+Round of 32,75,netherlands,scotland,scotland,1F,2C
+Round of 32,76,brazil,japan,brazil,1C,2F
+Round of 32,77,senegal,paraguay,senegal,1I,3_FOR_1I
+Round of 32,78,curacao,france,france,2E,2I
+Round of 32,79,south korea,saudi arabia,south korea,1A,3_FOR_1A
+Round of 32,80,england,dr congo,england,1L,3_FOR_1L
+Round of 32,81,united states,ivory coast,ivory coast,1D,3_FOR_1D
+Round of 32,82,iran,czechia,iran,1G,3_FOR_1G
+Round of 32,83,colombia,croatia,croatia,2K,2L
+Round of 32,84,spain,jordan,jordan,1H,2J
+Round of 32,85,canada,algeria,algeria,1B,3_FOR_1B
+Round of 32,86,argentina,uruguay,argentina,1J,2H
+Round of 32,87,portugal,norway,norway,1K,3_FOR_1K
+Round of 32,88,turkey,belgium,turkey,2D,2G
+Round of 16,89,morocco,senegal,senegal,W74,W77
+Round of 16,90,mexico,scotland,mexico,W73,W75
+Round of 16,91,brazil,france,france,W76,W78
+Round of 16,92,south korea,england,south korea,W79,W80
+Round of 16,93,croatia,jordan,croatia,W83,W84
+Round of 16,94,ivory coast,iran,iran,W81,W82
+Round of 16,95,argentina,turkey,argentina,W86,W88
+Round of 16,96,algeria,norway,algeria,W85,W87
+Quarterfinal,97,senegal,mexico,senegal,W89,W90
+Quarterfinal,98,croatia,iran,iran,W93,W94
+Quarterfinal,99,france,south korea,france,W91,W92
+Quarterfinal,100,argentina,algeria,argentina,W95,W96
+Semifinal,101,senegal,iran,senegal,W97,W98
+Semifinal,102,france,argentina,france,W99,W100
+Final,104,senegal,france,senegal,W101,W102

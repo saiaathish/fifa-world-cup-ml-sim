@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML/Data artifacts
+*.pkl
+*.joblib
+*.zip
+data/raw/

@@ -1,0 +1,15 @@
+item,value
+Training rows,6992
+Features used,42
+Best model,RandomForest_tuned
+Selected model accuracy,0.5518
+Tuned decision accuracy,0.5804
+Elo used in training,False
+Elo pair coverage,0.0007
+Real bracket used,True
+Annex C third-place mapping used,True
+Simulation runs,5000
+Group fixtures,69
+Teams in fixtures,47
+Top predicted winner,France
+France/Spain/Argentina all in top 5?,True
